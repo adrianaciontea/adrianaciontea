@@ -9,18 +9,8 @@ published: true
 description:
 ---
 
-My name is Adriana, and I am a writer of fiction and the odd wee poem.
+My name is Adriana, and I am a writer.
 
-I studied Creative Writing at Falmouth University. In my spare time, I like to go for walks in nature and drink lots of coffee.
-
-So far, I have worked on a couple of publishing collaborations with the National Trust and Falmouth University and enjoyed my experience in the publishing world.
-
-I am also a contributor to FalWriting, where I interview other writers and showcase some of my own work.
-
-I created this blog in order to capture my writing through time, and I also want to be able to share it easily with others.
-
-On As I Write, I talk about the many aspects of my writing life, such as my aspirations and goals, the nitty-gritty, self-doubt and more.
-
-I hope you will find the contents exciting and that you will share them with others!
+I am currently working on my debut novel, which will be out in Autumn 2020.
 
 ADRIANA CIONTEA
