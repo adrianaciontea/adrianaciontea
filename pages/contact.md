@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subtitle: Get in touch! #optional sub title to the post
-permalink: /about/
+permalink: /Contact/
 header_feature_image:  /images/log.jpg #replace this for yours
 tags:
 published: true
