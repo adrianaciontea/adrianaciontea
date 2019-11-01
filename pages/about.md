@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: All about me and my life #optional sub title to the post
 permalink: /about/
-header_feature_image: assets/img/hannah-grace--Rtl4DIBxj0-unsplash
+header_feature_image: assets/img/hannah-grace--Rtl4DIBxj0-unsplash.jpg
 tags:
 published: true
 description:
